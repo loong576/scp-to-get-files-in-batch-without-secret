@@ -208,4 +208,3 @@ myfile_3.txt                                                                    
 
 &nbsp;
 
-**本文所有脚本和配置文件已上传github：**[ansible-production-practice-5](https://github.com/loong576/ansible-production-practice-5/archive/main.zip)
